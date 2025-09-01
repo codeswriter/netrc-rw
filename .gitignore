@@ -1,0 +1,12 @@
+node_modules
+dist
+test/.netrc-modified
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# System Files
+.DS_Store
+Thumbs.db

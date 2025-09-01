@@ -1,0 +1,43 @@
+{
+  "name": "@codeswriter/netrc-rw",
+  "description": "ES6 module to read and write your .netrc file",
+  "version": "1.0.0",
+  "main": "dist/netrc.js",
+  "types": "dist/netrc.d.ts",
+  "exports": {
+    "import": {
+      "types": "./dist/netrc.d.ts",
+      "default": "./src/netrc.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc --build",
+    "test": "mocha --forbid-only \"test/**/*.spec.ts\""
+  },
+  "keywords": [
+    "@codeswriter/netrc"
+  ],
+  "author": "Oscar Reyes <oscar.reyes@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeswriter/netrc-rw.git"
+  },
+  "bugs": "https://github.com/codeswriter/netrc-rw/issues",
+  "homepage": "https://github.com/codeswriter/netrc-rw",
+  "devDependencies": {
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^24.3.0",
+    "mocha": "^11.7.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5"
+  },
+  "config": {
+    "test": {
+      "permissions": false
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"root":["./src/netrc.ts","./src/interfaces/options.interface.ts","./src/lib/helpers.ts","./src/lib/machine.ts","./src/lib/netrc.error.ts"],"version":"5.9.2"}
