@@ -1,6 +1,6 @@
 {
   "name": "@codeswriter/netrc-rw",
-  "description": "ES6 module to read and write your .netrc file",
+  "description": "A type-safe ES6 module to read, write, and manipulate your `.netrc` file with full TypeScript support.",
   "version": "1.0.0",
   "main": "dist/netrc.js",
   "types": "dist/netrc.d.ts",
