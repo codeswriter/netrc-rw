@@ -2,7 +2,6 @@ License
 -------
 (MIT)
 
-Copyright (c) 2012 JD Brennan <jazzdev@gmail.com>\
 Copyright (c) 2015 Trey Griffith <trey@tgriff3.com>\
 Copyright (c) 2025 Oscar Reyes <reyes.oscarh@gmail.com>
 
